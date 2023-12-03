@@ -1,0 +1,1 @@
+export { default as mailer, sendMail } from './mailer'
